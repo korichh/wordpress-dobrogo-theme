@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-11-30 17:51+0200\n"
+"PO-Revision-Date: 2022-11-30 17:52+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:10
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#: 404.php:16
+msgid "It looks like nothing was found at this location."
+msgstr "It looks like nothing was found at this location."
+
+#: footer.php:23
+msgid "Зв'язатися з нами!"
+msgstr "Contact us!"
+
+#: footer.php:49
+msgid "Обов'язки щодо перерахованих сум"
+msgstr "Obligations regarding the listed amounts"
+
+#: footer.php:52
+msgid "Контакти"
+msgstr "Contacts"
+
+#: front-page.php:39
+msgid "До заявки"
+msgstr "To order"
+
+#: front-page.php:44 header.php:61 header.php:87 orders-page.php:84
+#: single-post.php:36
+msgid "Задонатити"
+msgstr "Donate"
+
+#: front-page.php:91 single-news.php:35
+msgid "Перейти до заявок"
+msgstr "Go to orders"
+
+#: front-page.php:189 news-page.php:50 single-news.php:17
+msgid "Дата:"
+msgstr "Date:"
+
+#: front-page.php:198
+msgid "Звіти"
+msgstr "Reports"
+
+#: functions.php:33
+msgid "Header menu"
+msgstr "Header menu"
+
+#: functions.php:40 functions.php:52
+msgid "Reports"
+msgstr "Reports"
+
+#: functions.php:41
+msgid "Report"
+msgstr "Report"
+
+#: functions.php:42
+msgid "Add report"
+msgstr "Add report"
+
+#: functions.php:43
+msgid "Adding report"
+msgstr "Adding report"
+
+#: functions.php:44
+msgid "Edit report"
+msgstr "Edit report"
+
+#: functions.php:45
+msgid "New report"
+msgstr "New report"
+
+#: functions.php:46
+msgid "See report"
+msgstr "See report"
+
+#: functions.php:47
+msgid "Search report"
+msgstr "Search report"
+
+#: functions.php:48
+msgid "Reports not found"
+msgstr "Reports not found"
+
+#: functions.php:49
+msgid "Reports not found in trash"
+msgstr "Reports not found in trash"
+
+#: functions.php:51
+msgid "All reports"
+msgstr "All reports"
+
+#: functions.php:72 functions.php:73 functions.php:84
+msgid "News"
+msgstr "News"
+
+#: functions.php:74
+msgid "Add news"
+msgstr "Add news"
+
+#: functions.php:75
+msgid "Adding news"
+msgstr "Adding news"
+
+#: functions.php:76
+msgid "Edit news"
+msgstr "Edit news"
+
+#: functions.php:77
+msgid "New news"
+msgstr "New news"
+
+#: functions.php:78
+msgid "See news"
+msgstr "See news"
+
+#: functions.php:79
+msgid "Search news"
+msgstr "Search news"
+
+#: functions.php:80
+msgid "News not found"
+msgstr "News not found"
+
+#: functions.php:81
+msgid "News not found in trash"
+msgstr "News not found in trash"
+
+#: functions.php:83
+msgid "All news"
+msgstr "All news"
+
+#: functions.php:104 functions.php:115 functions.php:116
+msgid "Orders"
+msgstr "Orders"
+
+#: functions.php:105
+msgid "Order"
+msgstr "Order"
+
+#: functions.php:106
+msgid "Add order"
+msgstr "Add order"
+
+#: functions.php:107
+msgid "Adding order"
+msgstr "Adding order"
+
+#: functions.php:108
+msgid "Edit order"
+msgstr "Edit order"
+
+#: functions.php:109
+msgid "New order"
+msgstr "New order"
+
+#: functions.php:110
+msgid "See order"
+msgstr "See order"
+
+#: functions.php:111
+msgid "Search order"
+msgstr "Search order"
+
+#: functions.php:112
+msgid "Orders not found"
+msgstr "Orders not found"
+
+#: functions.php:113
+msgid "Orders not found in trash"
+msgstr "Orders not found in trash"
+
+#: functions.php:114
+msgid "All orders"
+msgstr "All orders"
+
+#: header.php:30
+msgid "Задонатити на"
+msgstr "Donate to"
+
+#: header.php:58 header.php:84
+msgid "Я ознайомився з"
+msgstr "I have read the"
+
+#: header.php:58 header.php:84
+msgid "обов'язками"
+msgstr "duties"
+
+#: header.php:143
+msgid "Зв'язатися"
+msgstr "Contact"
+
+#: inc/template-tags.php:143
+msgid "Prev"
+msgstr "Prev"
+
+#: inc/template-tags.php:144
+msgid "Next"
+msgstr "Next"
+
+#: news-page.php:54
+msgid "Переглянути"
+msgstr "Review"
+
+#: orders-page.php:50 single-post.php:16
+msgid "Дата отримання заявки:"
+msgstr "Order receipt date:"
+
+#: orders-page.php:53 orders-page.php:68 single-post.php:22
+msgid "Зібрано:"
+msgstr "Collected:"
+
+#: orders-page.php:53 orders-page.php:54 orders-page.php:68 orders-page.php:69
+#: orders-page.php:75 single-post.php:22 single-post.php:23 single-post.php:24
+msgid "грн"
+msgstr "UAH"
+
+#: orders-page.php:54 orders-page.php:75 single-post.php:24
+msgid "Ціль:"
+msgstr "Target:"
+
+#: orders-page.php:69 single-post.php:23
+msgid "Залишилося:"
+msgstr "Remaining:"
+
+#: orders-page.php:79
+msgid "Докладніше"
+msgstr "Read more"
+
+#: reports-page.php:20
+msgid "Витрати"
+msgstr "Spendings"
+
+#: reports-page.php:25
+msgid "Надходження"
+msgstr "Earnings"
+
+#: reports-page.php:37
+msgid "Дата купівлі"
+msgstr "Date of purchase"
+
+#: reports-page.php:40
+msgid "Товар"
+msgstr "Product"
+
+#: reports-page.php:43
+msgid "Кількість"
+msgstr "Amount"
+
+#: reports-page.php:46
+msgid "Ціна грн"
+msgstr "Price UAH"
+
+#: reports-page.php:49
+msgid "Категорія"
+msgstr "Category"
+
+#: reports-page.php:95
+msgid "Дата донату"
+msgstr "Date of donation"
+
+#: reports-page.php:98
+msgid "Сума грн"
+msgstr "Amount UAH"
+
+#: reports-page.php:101
+msgid "Від кого"
+msgstr "From"
+
+#: reports-page.php:104
+msgid "На яку заявку"
+msgstr "For which order"
+
+#: reports-page.php:107
+msgid "Статус"
+msgstr "Status"
+
+#~ msgid "На картку"
+#~ msgstr "To card"
+
+#~ msgid ""
+#~ "Ваша сума та ім`я з`являться в історії донатів після внесення коштів в "
+#~ "систему нашим волонтером."
+#~ msgstr ""
+#~ "Your amount and name will appear in the history of donations after our "
+#~ "volunteer has entered the funds into the system."
+
+#~ msgid "Не забудьте вказати назву заявки в коментарях до платежу."
+#~ msgstr ""
+#~ "Do not forget to indicate the name of the application in the comments to "
+#~ "the payment."
+
+#~ msgid "На PayPal"
+#~ msgstr "To PayPal"
+
+#~ msgid "На офіційний рахунок"
+#~ msgstr "To the official account"

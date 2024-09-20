@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-11-30 17:52+0200\n"
+"PO-Revision-Date: 2022-11-30 17:53+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:10
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "На жаль! Сторінка не знайдена."
+
+#: 404.php:16
+msgid "It looks like nothing was found at this location."
+msgstr "Схоже, за цією адресою нічого не знайдено."
+
+#: footer.php:23
+msgid "Зв'язатися з нами!"
+msgstr "Зв'язатися з нами!"
+
+#: footer.php:49
+msgid "Обов'язки щодо перерахованих сум"
+msgstr "Обов'язки щодо перерахованих сум"
+
+#: footer.php:52
+msgid "Контакти"
+msgstr "Контакти"
+
+#: front-page.php:39
+msgid "До заявки"
+msgstr "До заявки"
+
+#: front-page.php:44 header.php:61 header.php:87 orders-page.php:84
+#: single-post.php:36
+msgid "Задонатити"
+msgstr "Задонатити"
+
+#: front-page.php:91 single-news.php:35
+msgid "Перейти до заявок"
+msgstr "Перейти до заявок"
+
+#: front-page.php:189 news-page.php:50 single-news.php:17
+msgid "Дата:"
+msgstr "Дата:"
+
+#: front-page.php:198
+msgid "Звіти"
+msgstr "Звіти"
+
+#: functions.php:33
+msgid "Header menu"
+msgstr "Меню в шапці"
+
+#: functions.php:40 functions.php:52
+msgid "Reports"
+msgstr "Звіти"
+
+#: functions.php:41
+msgid "Report"
+msgstr "Звіт"
+
+#: functions.php:42
+msgid "Add report"
+msgstr "Додати звіт"
+
+#: functions.php:43
+msgid "Adding report"
+msgstr "Додавання звіту"
+
+#: functions.php:44
+msgid "Edit report"
+msgstr "Редагувати звіт"
+
+#: functions.php:45
+msgid "New report"
+msgstr "Новий звіт"
+
+#: functions.php:46
+msgid "See report"
+msgstr "Дивитися звіт"
+
+#: functions.php:47
+msgid "Search report"
+msgstr "Шукати звіт"
+
+#: functions.php:48
+msgid "Reports not found"
+msgstr "Звіти не знайдені"
+
+#: functions.php:49
+msgid "Reports not found in trash"
+msgstr "Звіти не знайдені в кошику"
+
+#: functions.php:51
+msgid "All reports"
+msgstr "Усі звіти"
+
+#: functions.php:72 functions.php:73 functions.php:84
+msgid "News"
+msgstr "Новини"
+
+#: functions.php:74
+msgid "Add news"
+msgstr "Додати новину"
+
+#: functions.php:75
+msgid "Adding news"
+msgstr "Додавання новини"
+
+#: functions.php:76
+msgid "Edit news"
+msgstr "Редагувати новину"
+
+#: functions.php:77
+msgid "New news"
+msgstr "Нова новина"
+
+#: functions.php:78
+msgid "See news"
+msgstr "Дивитися новину"
+
+#: functions.php:79
+msgid "Search news"
+msgstr "Шукати новину"
+
+#: functions.php:80
+msgid "News not found"
+msgstr "Новин не знайдено"
+
+#: functions.php:81
+msgid "News not found in trash"
+msgstr "Новин не знайдено у кошику"
+
+#: functions.php:83
+msgid "All news"
+msgstr "Усі новини"
+
+#: functions.php:104 functions.php:115 functions.php:116
+msgid "Orders"
+msgstr "Збори"
+
+#: functions.php:105
+msgid "Order"
+msgstr "Заявка"
+
+#: functions.php:106
+msgid "Add order"
+msgstr "Додати заявку"
+
+#: functions.php:107
+msgid "Adding order"
+msgstr "Додавання заявки"
+
+#: functions.php:108
+msgid "Edit order"
+msgstr "Редагувати заявку"
+
+#: functions.php:109
+msgid "New order"
+msgstr "Нова заявка"
+
+#: functions.php:110
+msgid "See order"
+msgstr "Дивитися заявку"
+
+#: functions.php:111
+msgid "Search order"
+msgstr "Шукати заявку"
+
+#: functions.php:112
+msgid "Orders not found"
+msgstr "Заявок не знайдено"
+
+#: functions.php:113
+msgid "Orders not found in trash"
+msgstr "Заявок не знайдено в кошику"
+
+#: functions.php:114
+msgid "All orders"
+msgstr "Усі зявки"
+
+#: header.php:30
+msgid "Задонатити на"
+msgstr "Задонатити на"
+
+#: header.php:58 header.php:84
+msgid "Я ознайомився з"
+msgstr "Я ознайомився з"
+
+#: header.php:58 header.php:84
+msgid "обов'язками"
+msgstr "обов'язками"
+
+#: header.php:143
+msgid "Зв'язатися"
+msgstr "Зв'язатися"
+
+#: inc/template-tags.php:143
+msgid "Prev"
+msgstr "Назад"
+
+#: inc/template-tags.php:144
+msgid "Next"
+msgstr "Далі"
+
+#: news-page.php:54
+msgid "Переглянути"
+msgstr "Переглянути"
+
+#: orders-page.php:50 single-post.php:16
+msgid "Дата отримання заявки:"
+msgstr "Дата отримання заявки:"
+
+#: orders-page.php:53 orders-page.php:68 single-post.php:22
+msgid "Зібрано:"
+msgstr "Зібрано:"
+
+#: orders-page.php:53 orders-page.php:54 orders-page.php:68 orders-page.php:69
+#: orders-page.php:75 single-post.php:22 single-post.php:23 single-post.php:24
+msgid "грн"
+msgstr "грн"
+
+#: orders-page.php:54 orders-page.php:75 single-post.php:24
+msgid "Ціль:"
+msgstr "Ціль:"
+
+#: orders-page.php:69 single-post.php:23
+msgid "Залишилося:"
+msgstr "Залишилося:"
+
+#: orders-page.php:79
+msgid "Докладніше"
+msgstr "Докладніше"
+
+#: reports-page.php:20
+msgid "Витрати"
+msgstr "Витрати"
+
+#: reports-page.php:25
+msgid "Надходження"
+msgstr "Надходження"
+
+#: reports-page.php:37
+msgid "Дата купівлі"
+msgstr "Дата купівлі"
+
+#: reports-page.php:40
+msgid "Товар"
+msgstr "Товар"
+
+#: reports-page.php:43
+msgid "Кількість"
+msgstr "Кількість"
+
+#: reports-page.php:46
+msgid "Ціна грн"
+msgstr "Ціна грн"
+
+#: reports-page.php:49
+msgid "Категорія"
+msgstr "Категорія"
+
+#: reports-page.php:95
+msgid "Дата донату"
+msgstr "Дата донату"
+
+#: reports-page.php:98
+msgid "Сума грн"
+msgstr "Сума грн"
+
+#: reports-page.php:101
+msgid "Від кого"
+msgstr "Від кого"
+
+#: reports-page.php:104
+msgid "На яку заявку"
+msgstr "На яку заявку"
+
+#: reports-page.php:107
+msgid "Статус"
+msgstr "Статус"
+
+#~ msgid "На картку"
+#~ msgstr "На картку"
+
+#~ msgid ""
+#~ "Ваша сума та ім`я з`являться в історії донатів після внесення коштів в "
+#~ "систему нашим волонтером."
+#~ msgstr ""
+#~ "Ваша сума та ім`я з`являться в історії донатів після внесення коштів в "
+#~ "систему нашим волонтером."
+
+#~ msgid "Не забудьте вказати назву заявки в коментарях до платежу."
+#~ msgstr "Не забудьте вказати назву заявки в коментарях до платежу."
+
+#~ msgid "На PayPal"
+#~ msgstr "На PayPal"
+
+#~ msgid "На офіційний рахунок"
+#~ msgstr "На офіційний рахунок"
